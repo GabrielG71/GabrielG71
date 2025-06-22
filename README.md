@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Gonçalves
 
-**`Desenvolvedor FullStack & DevOps Engineer`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Gonçalves, sou desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis. Especializado em desenvolvimento web moderno, arquitetura de sistemas e DevOps.
 
