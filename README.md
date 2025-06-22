@@ -5,21 +5,21 @@
 Me chamo Gabriel Gonçalves, sou desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis. Especializado em desenvolvimento web moderno, arquitetura de sistemas e DevOps. Tenho experiência sólida tanto no frontend quanto no backend, sempre buscando as melhores práticas e tecnologias emergentes para entregar experiências excepcionais aos usuários.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/gabriel-gonçalves-554a41311/">
+    <a href="https://www.linkedin.com/in/gabriel-gonçalves-554a41311/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:gabrielgoncalves2981@gmail.com">
+    <a href="mailto:gabrielgoncalves2981@gmail.com" target="_blank">
         <img 
             alt="Email" 
             title="Entre em contato" 
             src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white"
         />
     </a>
-    <a href="https://wa.me/5518998005937">
+    <a href="https://wa.me/5518998005937" target="_blank">
         <img 
             alt="WhatsApp" 
             title="WhatsApp" 
@@ -137,16 +137,12 @@ Me chamo Gabriel Gonçalves, sou desenvolvedor Full Stack apaixonado por criar s
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Linguagens Mais Usadas
 
 <div align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielG71&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=ffffff"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG71&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8"
+    height="200em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG71&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8&custom_title=Linguagens%20Mais%20Usadas"
   />
 </div>
 
