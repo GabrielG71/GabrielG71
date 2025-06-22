@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Gonçalves, sou desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis. Especializado em desenvolvimento web moderno, arquitetura de sistemas e DevOps.
+Me chamo Gabriel Gonçalves, tenho 18 anos e sou de Cândido Mota – SP. Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Ourinhos. Sou apaixonado por tecnologia e tenho foco em desenvolvimento web, principalmente com Vue.js e Laravel. Curto muito JavaScript, PHP e também me interesso por segurança da informação e DevOps. Estou sempre estudando e evoluindo pra me tornar um profissional cada vez mais completo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-gonçalves-554a41311/" target="_blank">
