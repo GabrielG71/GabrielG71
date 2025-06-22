@@ -14,7 +14,7 @@ Me chamo Gabriel Gonçalves, tenho 18 anos e sou de Cândido Mota – SP. Atualm
     <a href="https://wa.me/5518998005937" target="_blank">
         <img alt="WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.gabrielgon.com.br" target="_blank">
         <img alt="Portfolio" src="https://custom-icon-badges.demolab.com/badge/Acessar_Portfolio-FF6B35?style=for-the-badge&logo=globe&logoColor=white"/>
     </a>
 </p>
