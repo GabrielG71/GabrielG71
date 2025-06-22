@@ -23,11 +23,20 @@ Me chamo Gabriel Gonçalves, sou desenvolvedor Full Stack apaixonado por criar s
 
 <div align="center">
   
-## 🛠️ Tech Stack
+## 🛠️ Linguagens e Tecnologias
 
-**Frontend:** HTML5 • CSS3 • JavaScript • Vue.js  
-**Backend:** PHP • Laravel  
-**DevOps:** Linux • Docker • Git • MySQL
+<p align="center">
+  <img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Vue.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="Laravel" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG71&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=6&custom_title=Linguagens%20Mais%20Usadas"/>
 
