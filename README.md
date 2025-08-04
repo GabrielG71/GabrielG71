@@ -2,12 +2,12 @@
 
 **`Desenvolvedor Full-Stack`**
 
-👤 Perfil = Gabriel, 18 anos, Cândido Mota-SP
-🎓 Formação = ADS | FATEC Ourinhos - SP (Cursando)
-💼 Experiência = Estagiário Compras | AGI Brasil
-🚀 Stack Principal = Node.js + Laravel + Vue/React + PHP/JS/TS
-🌍 Idiomas = Inglês B2 (fluente oral/escrito) | Espanhol (Intermediário)
-📂 Portfólio = Projetos disponíveis abaixo! 👇👇
+<p>👤 Perfil = Gabriel, 18 anos, Cândido Mota-SP</p>
+<p>🎓 Formação = ADS | FATEC Ourinhos - SP (Cursando)</p>
+<p>💼 Experiência = Estagiário Compras | AGI Brasil</p>
+<p>🚀 Stack Principal = Node.js + Laravel + Vue/React + PHP/JS/TS</p>
+<p>🌍 Idiomas = Inglês B2 (fluente oral/escrito) | Espanhol (Intermediário)</p>
+<p>📂 Portfólio = Projetos disponíveis abaixo! 👇👇</p>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-gonçalves-554a41311/" target="_blank">
