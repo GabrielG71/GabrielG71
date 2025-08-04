@@ -2,12 +2,12 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Gabriel Gonçalves, tenho 18 anos e sou de Cândido Mota – SP. Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Ourinhos e atuo como estagiário na área de compras da AGI Brasil.  
-
-Tenho foco em desenvolvimento web utilizando tecnologias como Laravel, Node.js, Vue.js, React, JavaScript, PHP e TypeScript. Também me interesso por segurança da informação, DevOps e ferramentas como Docker.  
-
-Possuo inglês em nível B2, com boa comunicação oral e escrita.  
-Você pode conferir meus projetos abaixo! 👇
+👤 Perfil = Gabriel, 18 anos, Cândido Mota-SP
+🎓 Formação = ADS | FATEC Ourinhos - SP (Cursando)
+💼 Experiência = Estagiário Compras | AGI Brasil
+🚀 Stack Principal = Node.js + Laravel + Vue/React + PHP/JS/TS
+🌍 Idiomas = Inglês B2 (fluente oral/escrito) | Espanhol (Intermediário)
+📂 Portfólio = Projetos disponíveis abaixo! 👇👇
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-gonçalves-554a41311/" target="_blank">
