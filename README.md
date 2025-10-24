@@ -8,7 +8,7 @@
 ### 📋 Sobre Mim
 👤 **Perfil** = Gabriel, 18 anos, Cândido Mota-SP  
 🎓 **Formação** = ADS | FATEC Ourinhos - SP (Cursando)  
-💼 **Experiência** = Estagiário Compras - AGI Brasil  | Estágiario de TI | Informática Ourinhos <br />
+💼 **Experiência** = Estágiario de TI | Informática Ourinhos | Estagiário Compras - AGI Brasil <br />
 🚀 **Stack Principal** = Node.js + Laravel + Vue/React + PHP/JS/TS  
 🌍 **Idiomas** = Inglês B2 (fluente oral/escrito) | Espanhol (Intermediário)  
 📂 **Portfólio** = Projetos disponíveis abaixo! 👇👇  
