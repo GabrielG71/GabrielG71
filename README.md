@@ -1,64 +1,97 @@
-# 👨‍💻 Gabriel Gonçalves
-**`Desenvolvedor Full-Stack`**
+# Gabriel Gonçalves
+Full-Stack Developer | Data Engineering Enthusiast
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 📋 Sobre Mim
-👤 **Perfil** = Gabriel, 18 anos, Cândido Mota-SP  
-🎓 **Formação** = ADS | FATEC Ourinhos - SP (Cursando)  
-💼 **Experiência** = Estágiario de TI - Informática Ourinhos | Estagiário Compras - AGI Brasil <br />
-🚀 **Stack Principal** = Node.js + Laravel + Vue/React + PHP/JS/TS  
-🌍 **Idiomas** = Inglês B2 (fluente oral/escrito) | Espanhol (Intermediário)  
-📂 **Portfólio** = Projetos disponíveis abaixo! 👇👇  
-
-### 🔗 Contatos
-<a href="https://www.linkedin.com/in/gabriel-gonçalves-554a41311/" target="_blank">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:gabrielgoncalves2981@gmail.com" target="_blank">
-    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white"/>
-</a>
-<a href="https://wa.me/5518998005937" target="_blank">
-    <img alt="WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://gabrielgon.com.br" target="_blank">
-    <img alt="Portfolio" src="https://custom-icon-badges.demolab.com/badge/Acessar_Portfólio-FF6B35?style=for-the-badge&logo=globe&logoColor=white"/>
-</a>
-
-</td>
-<td valign="top" width="50%">
-
-### 🛠️ Stack (Tecnologias)
-<p align="center">
-  <img alt="PHP" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Laravel" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img alt="JavaScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="Vue.js" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img alt="React" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-</p>
-<p align="center">
-  <img alt="Node.js" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img alt="Docker" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="MySQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="PostgreSQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</p>
-
-### 📊 Estatísticas
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG71&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=6&custom_title=Tecnologias%20Mais%20Usadas"/>
-
-</td>
-</tr>
-</table>
+Cândido Mota - SP  
+Tecnólogo em Análise e Desenvolvimento de Sistemas — FATEC Ourinhos (cursando)
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=400&height=50&lines=Obrigado+pela+visita!+%F0%9F%98%84" alt="Typing SVG" />
+## Sobre
 
-⭐ **Não esqueça de dar uma estrela nos repositórios que você gostou!**
+Desenvolvedor Full-Stack com foco crescente em Engenharia de Dados, atuando na construção de aplicações web robustas e pipelines de dados bem estruturados.
+
+Possuo experiência prática com backend escalável, modelagem de banco de dados e integração entre APIs e sistemas relacionais. Minha abordagem combina organização, performance e visão de negócio.
+
+Experiência profissional:
+- Estagiário de TI — Informática Ourinhos  
+- Estagiário de Compras — AGI Brasil  
+
+---
+
+## Stack — Desenvolvimento
+
+Backend  
+- PHP (Laravel)  
+- Node.js  
+- Express  
+
+Frontend  
+- JavaScript  
+- TypeScript  
+- Vue.js  
+- React  
+
+Banco de Dados  
+- MySQL  
+- PostgreSQL  
+
+DevOps & Ferramentas  
+- Docker  
+- Git  
+- Linux  
+
+---
+
+## Stack — Engenharia de Dados
+
+- SQL avançado  
+- Modelagem relacional  
+- ETL e transformação de dados  
+- Python para análise de dados  
+- Pandas  
+- Construção de pipelines de dados  
+- Integração API → Banco de Dados  
+- Tratamento e limpeza de dados  
+- Estruturação de dashboards analíticos  
+
+---
+
+## Diferenciais
+
+- Capacidade de atuar entre backend e dados  
+- Organização e padronização de projetos  
+- Escrita de queries performáticas  
+- Inglês B2 (fluente oral e escrito)  
+- Espanhol intermediário  
+
+---
+
+## Estatísticas GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielG71&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG71&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </div>
+
+---
+
+## Contato
+
+LinkedIn  
+https://www.linkedin.com/in/gabriel-goncalves71/
+
+Email  
+gabrielgoncalves2981@gmail.com  
+
+WhatsApp  
+https://wa.me/5518998005937  
+
+Portfólio  
+https://gabrielgon.com.br  
+
+---
+
+"Building scalable systems and structuring data with clarity."
