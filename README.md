@@ -69,9 +69,9 @@ Experiência:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielG71&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielG71&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG71&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielG71&layout=compact&hide_border=true&langs_count=8"/>
 
 </div>
 
