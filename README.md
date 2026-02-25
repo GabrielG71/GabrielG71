@@ -1,7 +1,7 @@
 # Gabriel Gonçalves
 Full-Stack Developer | Data Engineering
 
-Cândido Mota - SP  
+Cândido Mota / Assis - SP  
 Análise e Desenvolvimento de Sistemas — FATEC Ourinhos (em andamento)
 
 ---
