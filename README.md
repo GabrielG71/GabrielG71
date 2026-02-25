@@ -15,7 +15,8 @@ Atualmente aprofundando conhecimentos em estruturação de dados, pipelines e ot
 
 Experiência:
 - Estagiário de TI — Informática Ourinhos  
-- Estagiário de Compras — AGI Brasil  
+- Estagiário de Compras — AGI Brasil
+- Desenvolvedor Backend - AETA
 
 ---
 
