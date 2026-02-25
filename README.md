@@ -14,9 +14,10 @@ Experiência prática na construção de aplicações web escaláveis, modelagem
 Atualmente aprofundando conhecimentos em estruturação de dados, pipelines e otimização de queries.
 
 Experiência:
+- Desenvolvedor Backend - AETA
 - Estagiário de TI — Informática Ourinhos  
 - Estagiário de Compras — AGI Brasil
-- Desenvolvedor Backend - AETA
+
 
 ---
 
